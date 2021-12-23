@@ -1,0 +1,21 @@
+{
+  "name": "decorator_boilerplate",
+  "version": "1.0.0",
+  "description": "js decorator_boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.16.0",
+    "@babel/core": "^7.16.5",
+    "@babel/node": "^7.16.5",
+    "@babel/plugin-proposal-class-properties": "^7.16.5",
+    "@babel/plugin-proposal-decorators": "^7.16.5",
+    "@babel/preset-env": "^7.16.5",
+    "jest": "^27.4.5"
+  }
+}
